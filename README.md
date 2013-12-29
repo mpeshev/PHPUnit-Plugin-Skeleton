@@ -11,7 +11,7 @@ A small skeleton for adding PHPUnit support to your WordPress plugins.
 4. Update the `$path` in your `bootstrap.php` to the path to your WordPress Tests folder (leading to bootstrap.php)
 5. Update the `active_plugins` key leading to your plugin folder and main plugin file name.
 6. Add some tests to the `phpunit/` folder
-7. Run *phpunit* within the /tests folder (or the folder name created in step 3)
+7. Run **phpunit** within the `/tests` folder (*or the folder name created in step 3*)
 
 ## Resources
 
